@@ -1,0 +1,18 @@
+<resources>
+    <string name="data_not_found">DATA NOT FOUND</string>
+    <string name="data_load_failed">DATA LOAD FAILED</string>
+    <string name="store_failed">STORE FILED</string>
+    <string name="store_successful">STORE SUCCESSFUL</string>
+
+    <string name="app_name">Sara1117Practice</string>
+    <string name="main_et_name">Name</string>
+    <string name="main_btn_add">Add</string>
+    <string name="main_btn_previous">Previous</string>
+    <string name="main_btn_next">Next</string>
+    <string name="main_btn_load">Load</string>
+    <string name="main_btn_save">Save</string>
+    <string name="main_et_scoreName">Score name</string>
+    <string name="main_et_scoreValue">Score value</string>
+    <string name="main_btn_addScore">Add score</string>
+<!--    <string name="main_et_name">LogIn</string>-->
+</resources>
